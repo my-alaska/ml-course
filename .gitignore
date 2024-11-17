@@ -1,5 +1,6 @@
 .ipynb_checkpoints
 data
+lightning_logs
 .idea
 *.csv
 *.parquet
