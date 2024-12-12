@@ -5,3 +5,5 @@ lightning_logs
 *.csv
 *.parquet
 *.html
+*.png
+*.gif
